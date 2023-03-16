@@ -478,7 +478,7 @@ footer {
   .footer-social {
     flex-basis: 50%;
     margin-top: 2rem;
-    /* margin-left: 3rem; */
+    margin-left: 1rem;
   }
   .footer-social a {
     color: #222;
